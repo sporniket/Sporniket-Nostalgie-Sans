@@ -1,0 +1,23 @@
+StartChar: h.sc
+Encoding: 374 -1 244
+Width: 320
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+280 400 m 5xbc
+ 280 0 l 1
+ 200 0 l 1
+ 200 159 l 5
+ 120 159 l 5
+ 120 0 l 1
+ 40 0 l 1
+ 40 400 l 5
+ 120 400 l 5
+ 120 240 l 5
+ 200 240 l 5
+ 200 400 l 5
+ 280 400 l 5xbc
+EndSplineSet
+EndChar

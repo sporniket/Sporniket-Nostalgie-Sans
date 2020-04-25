@@ -1,0 +1,13 @@
+StartChar: ordfeminine
+Encoding: 170 170 175
+Width: 200
+VWidth: 1030
+Flags: W
+HStem: 210 40<40 160> 290 40<84.1325 110> 370 40<84.1325 110> 430 40<70 115.868>
+VStem: 40 40<340 365.867> 40 120<210 250 210 250 210 210> 120 40<290 425.867>
+LayerCount: 2
+Fore
+Refer: 158 95 N 0.5 0 0 0.5 20 210 2
+Refer: 8 97 N 0.5 0 0 0.5 20 290 2
+Validated: 5
+EndChar

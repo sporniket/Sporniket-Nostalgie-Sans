@@ -1,0 +1,19 @@
+StartChar: thorn
+Encoding: 254 254 185
+Width: 320
+Flags: HW
+HStem: 0 21G<40 120> 120 80<128.265 180> 400 80<128.265 180> 460 20G<40 100>
+VStem: 40 80<0 480 220 391.735> 200 80<208.265 380>
+LayerCount: 2
+Fore
+SplineSet
+40 480 m 29xdc
+ 100 480 l 21xdc
+ 109.973 460.054 120 422.3 120 400 c 14xec
+ 120 -120 l 25
+ 40 -120 l 25
+ 40 480 l 29xdc
+EndSplineSet
+Refer: 1 111 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

@@ -1,0 +1,11 @@
+StartChar: arrowdblright
+Encoding: 395 8658 264
+Width: 480
+VWidth: 820
+Flags: W
+HStem: 200 40<80 200> 320 40<80 200>
+VStem: 40 40<240 320> 200 40<120 200 360 360>
+LayerCount: 2
+Fore
+Refer: 263 8656 S -1 0 0 1 480 0 2
+EndChar

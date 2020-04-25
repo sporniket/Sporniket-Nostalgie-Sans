@@ -1,0 +1,11 @@
+StartChar: Icircumflex
+Encoding: 206 206 108
+Width: 160
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 74 94 N 1 0 0 1 -80 120 2
+Refer: 26 73 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

@@ -1,0 +1,17 @@
+StartChar: acute
+Encoding: 256 180 72
+Width: 320
+Flags: HW
+HStem: 399.995 120.005<100.002 140 140 140>
+VStem: 40 160.001<420 499.995 420 420>
+AnchorPoint: "Top" 80 380 mark 0
+LayerCount: 2
+Fore
+SplineSet
+40 420 m 29
+ 140 520 l 29
+ 200.001 499.995 l 29
+ 100.002 399.995 l 29
+ 40 420 l 29
+EndSplineSet
+EndChar

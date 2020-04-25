@@ -1,0 +1,11 @@
+StartChar: second
+Encoding: 293 8243 229
+Width: 320
+VWidth: 0
+Flags: W
+HStem: 280 120<175 196 121 250 175 175> 320 120<95 116 41 170 95 95>
+LayerCount: 2
+Fore
+Refer: 228 8242 N 1 0 0 1 -40 0 2
+Refer: 228 8242 S 1 0 0 1 40 -40 2
+EndChar

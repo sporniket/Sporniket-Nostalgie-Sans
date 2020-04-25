@@ -1,0 +1,32 @@
+StartChar: numbersign
+Encoding: 35 35 67
+Width: 400
+Flags: W
+HStem: 160 80<40 360> 320 80<40 360> 460 20G<80 160 240 320>
+VStem: 80 80<80 480> 240 80<80 480>
+LayerCount: 2
+Fore
+SplineSet
+320 480 m 29
+ 320 80 l 29
+ 240 80 l 29
+ 240 480 l 29
+ 320 480 l 29
+160 480 m 25
+ 160 80 l 25
+ 80 80 l 25
+ 80 480 l 25
+ 160 480 l 25
+40 400 m 25
+ 360 400 l 25
+ 360 320 l 25
+ 40 320 l 25
+ 40 400 l 25
+40 240 m 25
+ 360 240 l 25
+ 360 160 l 25
+ 40 160 l 25
+ 40 240 l 25
+EndSplineSet
+Validated: 5
+EndChar

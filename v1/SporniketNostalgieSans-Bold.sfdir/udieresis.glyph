@@ -1,0 +1,13 @@
+StartChar: udieresis
+Encoding: 252 252 129
+Width: 320
+VWidth: 0
+HStem: 0 80<129.017 190.947> 340 20<40 120 200 280> 400 80<64.8188 95.1811 224.819 255.181>
+VStem: 40 80<89.0865 360> 40 240<430.61 449.39 440 440 440 440> 200 80<57.7 360 0 360 49 80>
+LayerCount: 2
+Fore
+Refer: 75 168 N 1 0 0 1 0 0 2
+Refer: 18 117 N 1 0 0 1 0 0 3
+Validated: 5
+Kerns2: 14 -40 "kern"
+EndChar

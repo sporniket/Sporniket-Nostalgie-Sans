@@ -1,0 +1,18 @@
+StartChar: uni2010
+Encoding: 266 8208 202
+Width: 240
+VWidth: 960
+Flags: HW
+HStem: -40 21G<40 120> 160 80<-40 200> 420 20G<40 120>
+VStem: 40 80<-40 440>
+LayerCount: 2
+Fore
+SplineSet
+40 240 m 25
+ 200 240 l 29
+ 200 160 l 29
+ 40 160 l 25
+ 40 240 l 25
+EndSplineSet
+Validated: 3073
+EndChar

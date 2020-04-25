@@ -1,0 +1,10 @@
+StartChar: OE
+Encoding: 188 338 194
+Width: 480
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 0 79 S 1 0 0 1 0 0 2
+Refer: 40 69 N 1 0 0 1 160 0 2
+Validated: 5
+EndChar

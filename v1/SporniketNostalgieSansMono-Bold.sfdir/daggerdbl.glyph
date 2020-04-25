@@ -1,0 +1,27 @@
+StartChar: daggerdbl
+Encoding: 283 8225 219
+Width: 320
+VWidth: 960
+Flags: HW
+HStem: 120 80<40 280>
+VStem: 120 80<0 320>
+LayerCount: 2
+Fore
+SplineSet
+40 400 m 29
+ 280 400 l 29
+ 280 320 l 29
+ 40 320 l 29
+ 40 400 l 29
+40 200 m 29
+ 280 200 l 29
+ 280 120 l 29
+ 40 120 l 29
+ 40 200 l 29
+200 520 m 29
+ 200 0 l 29
+ 120 0 l 29
+ 120 520 l 29
+ 200 520 l 29
+EndSplineSet
+EndChar

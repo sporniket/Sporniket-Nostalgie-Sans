@@ -1,0 +1,20 @@
+StartChar: logicalnot
+Encoding: 172 172 180
+Width: 320
+Flags: HW
+HStem: -40 21G<80 160> 160 80<0 240> 420 20G<80 160>
+VStem: 80 80<-40 440>
+LayerCount: 2
+Fore
+SplineSet
+40 320 m 25
+ 280 320 l 17
+ 280 240 l 1
+ 280 160 l 1
+ 200 160 l 5
+ 200 240 l 1
+ 40 240 l 9
+ 40 320 l 25
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,12 @@
+StartChar: zcaron
+Encoding: 184 382 199
+Width: 320
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 196 711 N 1 0 0 1 0 0 2
+Refer: 27 122 N 1 0 0 1 0 0 3
+Validated: 5
+Kerns2: 150 -40 "kern" 98 -40 "kern" 91 -40 "kern" 87 -40 "kern" 90 -40 "kern" 89 -40 "kern" 88 -40 "kern" 8 -40 "kern"
+EndChar

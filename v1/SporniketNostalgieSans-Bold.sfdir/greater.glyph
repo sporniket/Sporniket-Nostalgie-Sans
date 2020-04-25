@@ -1,0 +1,10 @@
+StartChar: greater
+Encoding: 62 62 144
+Width: 360
+VWidth: 960
+Flags: W
+HStem: 0 400<-169.999 -59.999 -59.999 -59.999>
+LayerCount: 2
+Fore
+Refer: 143 60 N -1 0 0 1 360.001 0 2
+EndChar

@@ -1,0 +1,13 @@
+StartChar: iacute
+Encoding: 237 237 101
+Width: 160
+Flags: H
+HStem: 0 360<78.0267 120 120 160 120 120> 399.995 120.005<100.002 140 140 140>
+VStem: 40 80<89.0521 360> 40 140<39.1171 80> 40 160.001<420 499.995 420 420>
+LayerCount: 2
+Fore
+Refer: 72 180 N 1 0 0 1 0 0 2
+Refer: 105 305 N 1 0 0 1 0 0 3
+Validated: 1
+Kerns2: 58 80 "kern" 14 -40 "kern"
+EndChar

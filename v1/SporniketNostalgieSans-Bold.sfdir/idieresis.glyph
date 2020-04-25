@@ -1,0 +1,13 @@
+StartChar: idieresis
+Encoding: 239 239 103
+Width: 160
+Flags: H
+HStem: 0 360<78.0267 120 120 160 120 120> 400 80<-15.1812 15.1811 144.819 175.181>
+VStem: -40 240<430.61 449.39 440 440 440 440> 40 80<89.0521 360> 40 140<39.1171 80>
+LayerCount: 2
+Fore
+Refer: 75 168 N 1 0 0 1 -80 0 2
+Refer: 105 305 N 1 0 0 1 0 0 3
+Validated: 1
+Kerns2: 58 80 "kern" 14 -40 "kern"
+EndChar

@@ -1,0 +1,26 @@
+StartChar: multiply
+Encoding: 215 215 189
+Width: 320
+VWidth: -40
+Flags: W
+HStem: 40 400<215 290 215 215>
+LayerCount: 2
+Fore
+SplineSet
+290 40 m 29
+ 215 40 l 25
+ 125 240 l 25
+ 215 440 l 25
+ 290 440 l 29
+ 200 240 l 29
+ 290 40 l 29
+30 440 m 25
+ 105 440 l 25
+ 195 240 l 25
+ 105 40 l 25
+ 30 40 l 25
+ 120 240 l 25
+ 30 440 l 25
+EndSplineSet
+Validated: 3077
+EndChar

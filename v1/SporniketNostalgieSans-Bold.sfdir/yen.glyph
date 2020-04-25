@@ -1,0 +1,23 @@
+StartChar: yen
+Encoding: 165 165 159
+Width: 320
+Flags: HW
+HStem: -160 21G<120 200> 40 80<40 280> 300 20G<120 200>
+VStem: 120 80<-160 320>
+LayerCount: 2
+Fore
+SplineSet
+40 120 m 29
+ 280 120 l 29
+ 280 80 l 29
+ 40 80 l 29
+ 40 120 l 29
+40 200 m 29
+ 280 200 l 29
+ 280 160 l 29
+ 40 160 l 29
+ 40 200 l 29
+EndSplineSet
+Refer: 36 89 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

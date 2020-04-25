@@ -1,0 +1,29 @@
+StartChar: V
+Encoding: 86 86 35
+Width: 320
+Flags: HW
+HStem: 0 480<40 180 40 40>
+VStem: 40 80<217.29 480> 200 80<217.29 480>
+LayerCount: 2
+Fore
+SplineSet
+40 480 m 25
+ 120 480 l 25
+ 120 240 l 17
+ 120 227.61 125.569 206.642 131.11 195.56 c 9
+ 160 137.78 l 1
+ 189 195 l 5
+ 194.541 206.082 200 227.61 200 240 c 9
+ 200 480 l 25
+ 280 480 l 25
+ 280 240 l 17
+ 280 217.7 269.973 179.946 260 160 c 9
+ 180 0 l 25
+ 140 0 l 25
+ 60 160 l 17
+ 50.0272 179.946 40 217.7 40 240 c 9
+ 40 480 l 25
+EndSplineSet
+Validated: 1
+Substitution2: "sous-table 'c2sc' Capitales vers petites capitales dans Latin lookup 0" v.sc
+EndChar

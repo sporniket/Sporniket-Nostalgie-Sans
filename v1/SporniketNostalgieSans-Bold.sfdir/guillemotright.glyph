@@ -1,0 +1,11 @@
+StartChar: guillemotright
+Encoding: 187 187 153
+Width: 360
+VWidth: 820
+Flags: HW
+HStem: 160 240<270 340 340 340>
+VStem: 30 310<280 400 400 400>
+LayerCount: 2
+Fore
+Refer: 152 171 N -1 0 0 1 360 0 2
+EndChar

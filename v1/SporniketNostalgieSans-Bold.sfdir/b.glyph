@@ -1,0 +1,22 @@
+StartChar: b
+Encoding: 98 98 2
+Width: 320
+Flags: W
+TeX: 98 0
+HStem: 0 21G<40 100> 0 80<128.265 180> 280 80<128.265 180> 460 20G<40 120>
+VStem: 40 80<0 480 100 271.735> 200 80<88.2651 260>
+LayerCount: 2
+Fore
+SplineSet
+40 480 m 29xbc
+ 120 480 l 29
+ 120 80 l 22x7c
+ 120 57.7 109.973 19.9457 100 0 c 13
+ 40 0 l 29
+ 40 480 l 29xbc
+EndSplineSet
+Refer: 1 111 N 1 0 0 1 0 0 2
+Validated: 5
+Kerns2: 14 -40 "kern" 33 -80 "kern"
+Substitution2: "sous-table 'smcp' Bas-de-casse vers petites capitales dans Latin lookup 0" b.sc
+EndChar

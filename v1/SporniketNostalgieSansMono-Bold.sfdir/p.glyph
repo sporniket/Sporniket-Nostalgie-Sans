@@ -1,0 +1,19 @@
+StartChar: p
+Encoding: 112 112 5
+Width: 320
+Flags: HW
+TeX: 112 0
+HStem: -120 21G<40 120> 0 80<128.265 180> 280 80<128.265 180> 340 20G<40 100>
+VStem: 40 80<-120 360 100 271.735> 200 80<88.2651 260>
+LayerCount: 2
+Fore
+SplineSet
+40 360 m 29xdc
+ 100 360 l 21xdc
+ 109.973 340.054 120 302.3 120 280 c 14xec
+ 120 -120 l 29
+ 40 -120 l 29
+ 40 360 l 29xdc
+EndSplineSet
+Refer: 1 111 N 1 0 0 1 0 0 2
+EndChar

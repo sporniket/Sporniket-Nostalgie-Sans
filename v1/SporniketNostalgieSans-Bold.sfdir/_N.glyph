@@ -1,0 +1,28 @@
+StartChar: N
+Encoding: 78 78 56
+Width: 320
+Flags: W
+HStem: 0 21G<40 120 200 280> 460 20G<40 120 200 280>
+VStem: 40 80<0 281.107 457.274 480> 200 80<0 114.899 150.676 480 0 480 1.53064e-18 1.53064e-18>
+AnchorPoint: "Top" 160 500 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+200 480 m 1
+ 280 480 l 1
+ 280 0 l 1
+ 200 0 l 1
+ 200 480 l 1
+120 0 m 1
+ 40 0 l 1
+ 40 480 l 1
+ 120 480 l 5
+ 120 467.22 125.395 446.991 131.11 435.56 c 1
+ 274.658 150.676 l 1
+ 203.104 114.899 l 1
+ 120 281.107 l 1
+ 120 0 l 1
+EndSplineSet
+Validated: 5
+Substitution2: "sous-table 'c2sc' Capitales vers petites capitales dans Latin lookup 0" n.sc
+EndChar

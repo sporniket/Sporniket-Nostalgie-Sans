@@ -1,0 +1,36 @@
+StartChar: r
+Encoding: 114 114 20
+Width: 320
+Flags: W
+TeX: 114 0
+HStem: 0 21G<40 120 40 120> 280 80<140 191.735>
+VStem: 40 80<0 360>
+LayerCount: 2
+Fore
+SplineSet
+40 360 m 25
+ 100 360 l 17
+ 109.973 340.054 120 302.3 120 280 c 10
+ 120 0 l 25
+ 40 0 l 25
+ 40 360 l 25
+280 260 m 13
+ 200 260 l 22
+ 195.31 260 197.334 270.704 194.1 274.1 c 4
+ 190.865 277.496 184.69 280 180 280 c 14
+ 140 280 l 22
+ 135.311 280.041 129.217 277.416 125.9 274.1 c 4
+ 122.584 270.783 120 264.69 120 260 c 14
+ 120 0 l 29
+ 40 0 l 5
+ 40 260 l 22
+ 40 283.47 54.4043 314.404 71 331 c 4
+ 87.5957 347.596 116.53 360 140 360 c 14
+ 180 360 l 22
+ 203.47 360 234.404 347.596 251 331 c 4
+ 267.596 314.404 280 283.47 280 260 c 13
+EndSplineSet
+Validated: 5
+Kerns2: 14 -40 "kern" 31 -40 "kern" 6 -40 "kern" 115 -40 "kern" 119 -40 "kern" 117 -40 "kern" 116 -40 "kern" 1 -40 "kern" 15 -40 "kern" 19 -40 "kern" 100 -40 "kern" 103 -40 "kern" 102 -40 "kern" 101 -40 "kern" 23 -40 "kern" 4 -40 "kern" 78 -40 "kern" 81 -40 "kern" 80 -40 "kern" 79 -40 "kern" 11 -40 "kern" 3 -40 "kern" 9 -40 "kern" 2 -40 "kern" 150 -80 "kern" 98 -80 "kern" 91 -80 "kern" 87 -80 "kern" 90 -80 "kern" 89 -80 "kern" 88 -80 "kern" 8 -80 "kern"
+Substitution2: "sous-table 'smcp' Bas-de-casse vers petites capitales dans Latin lookup 0" r.sc
+EndChar

@@ -1,0 +1,21 @@
+StartChar: q
+Encoding: 113 113 6
+Width: 320
+Flags: W
+TeX: 113 0
+HStem: -120 21G<200 280> 0 80<128.265 180> 280 80<128.265 180> 340 20G<220 280>
+VStem: 40 80<100 271.735> 200 80<-120 360 88.2651 260>
+LayerCount: 2
+Fore
+SplineSet
+220 360 m 9xdc
+ 280 360 l 25xdc
+ 280 -120 l 25
+ 200 -120 l 25
+ 200 280 l 22xec
+ 200 302.3 210.027 340.054 220 360 c 9xdc
+EndSplineSet
+Refer: 1 111 N 1 0 0 1 0 0 2
+Validated: 5
+Substitution2: "sous-table 'smcp' Bas-de-casse vers petites capitales dans Latin lookup 0" q.sc
+EndChar

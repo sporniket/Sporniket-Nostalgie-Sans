@@ -1,0 +1,13 @@
+StartChar: igrave
+Encoding: 236 236 100
+Width: 160
+Flags: H
+HStem: 0 360<78.0267 120 120 160 120 120> 399.995 120.005<20 59.998 20 20>
+VStem: -40.001 160.001<420 499.995 499.995 499.995> 40 80<89.0521 360> 40 140<39.1171 80>
+LayerCount: 2
+Fore
+Refer: 73 96 N 1 0 0 1 -80.001 0 2
+Refer: 105 305 N 1 0 0 1 0 0 3
+Validated: 1
+Kerns2: 58 80 "kern" 14 -40 "kern"
+EndChar

@@ -1,0 +1,18 @@
+StartChar: zero
+Encoding: 48 48 7
+Width: 320
+Flags: HW
+TeX: 122 0
+HStem: 0 80<128.265 180> 400 80<128.265 180>
+VStem: 40 80<100 391.735> 200 80<88.2651 380>
+LayerCount: 2
+Fore
+SplineSet
+89.2891 197.573 m 29
+ 202.427 310.711 l 29
+ 230.711 282.427 l 29
+ 117.573 169.289 l 29
+ 89.2891 197.573 l 29
+EndSplineSet
+Refer: 0 79 N 1 0 0 1 0 0 2
+EndChar

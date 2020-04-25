@@ -1,0 +1,33 @@
+StartChar: z
+Encoding: 122 122 27
+Width: 320
+Flags: HW
+HStem: 0 80<100 110 131.11 270 30 290 100 100> 280 80<40 214>
+AnchorPoint: "Top" 160 380 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+100 80 m 25
+ 290 80 l 17
+ 290 57.7002 279.973 19.9453 270 0 c 9
+ 100 0 l 25
+ 100 80 l 25
+30 0 m 17
+ 160 260 l 18
+ 171.18 282.361 212.322 342.322 230 360 c 9
+ 280 300 l 17
+ 264.232 284.232 231.095 244.38 221.11 224.44 c 9
+ 131.11 44.44 l 17
+ 125.569 33.358 110 0 110 0 c 25
+ 30 0 l 17
+200 280 m 25
+ 40 280 l 25
+ 40 360 l 25
+ 280 360 l 25
+ 280 300 l 25
+ 200 280 l 25
+EndSplineSet
+Validated: 5
+Kerns2: 14 -80 "kern" 33 -80 "kern" 150 -40 "kern" 98 -40 "kern" 91 -40 "kern" 87 -40 "kern" 90 -40 "kern" 89 -40 "kern" 88 -40 "kern" 8 -40 "kern"
+Substitution2: "sous-table 'smcp' Bas-de-casse vers petites capitales dans Latin lookup 0" z.sc
+EndChar

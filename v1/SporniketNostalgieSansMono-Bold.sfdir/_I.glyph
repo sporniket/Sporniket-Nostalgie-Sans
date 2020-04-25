@@ -1,0 +1,17 @@
+StartChar: I
+Encoding: 73 73 26
+Width: 320
+Flags: W
+HStem: 0 480<120 200 120 200 120 120>
+VStem: 120 80<0 480>
+AnchorPoint: "Top" 160 500 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+200 480 m 29
+ 200 0 l 29
+ 120 0 l 29
+ 120 480 l 29
+ 200 480 l 29
+EndSplineSet
+EndChar

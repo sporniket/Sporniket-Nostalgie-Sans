@@ -1,0 +1,12 @@
+StartChar: eacute
+Encoding: 233 233 79
+Width: 320
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 72 180 N 1 0 0 1 80 0 2
+Refer: 11 101 N 1 0 0 1 0 0 3
+Validated: 1
+Kerns2: 195 -40 "kern" 130 -40 "kern" 36 -40 "kern" 14 -40 "kern" 33 -40 "kern" 13 -40 "kern"
+EndChar

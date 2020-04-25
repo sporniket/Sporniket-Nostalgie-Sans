@@ -1,0 +1,11 @@
+StartChar: ccedilla
+Encoding: 231 231 134
+Width: 320
+VWidth: 0
+HStem: -120 120<120 160 80 200 120 120> 0 80<140 211.15> 280 80<128.265 170>
+VStem: 40 80<88.2652 260>
+LayerCount: 2
+Fore
+Refer: 132 184 N 1 0 0 1 80 -40 2
+Refer: 9 99 N 1 0 0 1 0 0 3
+EndChar

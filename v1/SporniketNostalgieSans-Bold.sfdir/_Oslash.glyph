@@ -1,0 +1,18 @@
+StartChar: Oslash
+Encoding: 216 216 167
+Width: 320
+Flags: W
+HStem: 0 80<128.265 180> 132 336<20 300 300 300> 400 80<128.265 180>
+VStem: 20 280<188 468 188 188> 40 80<100 391.735> 200 80<88.2651 380>
+LayerCount: 2
+Fore
+SplineSet
+20 188 m 29xd0
+ 300 468 l 29
+ 300 412 l 29
+ 20 132 l 29
+ 20 188 l 29xd0
+EndSplineSet
+Refer: 0 79 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

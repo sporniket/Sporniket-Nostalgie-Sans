@@ -1,0 +1,12 @@
+StartChar: caron
+Encoding: 265 711 196
+Width: 320
+Flags: HW
+HStem: 399.995 120.005<100.002 180.001 180.001 180.001>
+VStem: 40 240.001<499.995 499.995 499.995 499.995>
+AnchorPoint: "Top" 160 380 mark 0
+LayerCount: 2
+Fore
+Refer: 74 94 N -1 0 0 -1 320.001 919.995 2
+Validated: 1
+EndChar

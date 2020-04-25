@@ -1,0 +1,12 @@
+StartChar: guillemotleft
+Encoding: 171 171 152
+Width: 320
+VWidth: 820
+Flags: HW
+HStem: 160 240<380 450 380 380>
+VStem: 140 310<160 280 280 280>
+LayerCount: 2
+Fore
+Refer: 235 8249 S 1 0 0 1 0 0 2
+Refer: 235 8249 N 1 0 0 1 120 0 2
+EndChar

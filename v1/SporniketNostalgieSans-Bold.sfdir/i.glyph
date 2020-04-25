@@ -1,0 +1,24 @@
+StartChar: i
+Encoding: 105 105 23
+Width: 160
+Flags: HW
+HStem: 0 480<80 150 144.819 175.181>
+VStem: 40 130<39.1171 80> 40 80<89.0521 360 424.819 455.181>
+LayerCount: 2
+Fore
+SplineSet
+80 480 m 0
+ 89.3896 480 101.66 474.939 108.3 468.3 c 0
+ 114.939 461.66 120 449.39 120 440 c 0
+ 120 430.61 114.939 418.34 108.3 411.7 c 0
+ 101.66 405.061 89.3896 400 80 400 c 0
+ 70.6104 400 58.3398 405.061 51.7002 411.7 c 0
+ 45.0605 418.34 40 430.61 40 440 c 0
+ 40 449.39 45.0605 461.66 51.7002 468.3 c 0
+ 58.3398 474.939 70.6104 480 80 480 c 0
+EndSplineSet
+Refer: 105 305 S 1 0 0 1 0 0 2
+Validated: 1
+Kerns2: 58 80 "kern" 14 -40 "kern"
+Substitution2: "sous-table 'smcp' Bas-de-casse vers petites capitales dans Latin lookup 0" i.sc
+EndChar

@@ -1,0 +1,21 @@
+StartChar: uni2016
+Encoding: 272 8214 208
+Width: 320
+Flags: HW
+HStem: -40 560<40 120 40 120 40 40>
+VStem: 40 80<-40 520>
+LayerCount: 2
+Fore
+SplineSet
+120 520 m 29
+ 120 -40 l 29
+ 40 -40 l 29
+ 40 520 l 29
+ 120 520 l 29
+280 520 m 25
+ 280 -40 l 25
+ 200 -40 l 25
+ 200 520 l 25
+ 280 520 l 25
+EndSplineSet
+EndChar

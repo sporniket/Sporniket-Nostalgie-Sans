@@ -1,0 +1,28 @@
+StartChar: x
+Encoding: 120 120 30
+Width: 320
+VWidth: 0
+Flags: W
+HStem: 0 360<215 295 215 215>
+LayerCount: 2
+Fore
+SplineSet
+295 0 m 29
+ 215 0 l 29
+ 125 180 l 29
+ 215 360 l 29
+ 295 360 l 29
+ 205 180 l 29
+ 295 0 l 29
+25 360 m 25
+ 105 360 l 25
+ 195 180 l 25
+ 105 0 l 25
+ 25 0 l 25
+ 115 180 l 25
+ 25 360 l 25
+EndSplineSet
+Validated: 5
+Kerns2: 33 -80 "kern"
+Substitution2: "sous-table 'smcp' Bas-de-casse vers petites capitales dans Latin lookup 0" x.sc
+EndChar

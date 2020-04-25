@@ -1,0 +1,18 @@
+StartChar: grave
+Encoding: 96 96 73
+Width: 240
+Flags: W
+HStem: 399.995 120.005<100.001 139.999 100.001 100.001>
+VStem: 40 160.001<420 499.995 499.995 499.995>
+AnchorPoint: "Top" 160.001 380 mark 0
+LayerCount: 2
+Fore
+SplineSet
+200.001 420 m 29
+ 139.999 399.995 l 29
+ 40 499.995 l 29
+ 100.001 520 l 29
+ 200.001 420 l 29
+EndSplineSet
+Validated: 1
+EndChar

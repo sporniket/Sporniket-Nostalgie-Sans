@@ -1,0 +1,29 @@
+StartChar: y.sc
+Encoding: 391 -1 261
+Width: 320
+VWidth: 0
+Flags: H
+AnchorPoint: "Top" 160 420 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+40 400 m 5
+ 120 400 l 5
+ 120 360 l 6
+ 120 348 125 327 131 316 c 6
+ 160 258 l 5
+ 189 315 l 6
+ 195 326 200 348 200 360 c 6
+ 200 400 l 5
+ 280 400 l 5
+ 280 360 l 6
+ 280 338 270 300 260 280 c 6
+ 200 160 l 5
+ 200 0 l 1
+ 120 0 l 1
+ 120 160 l 5
+ 60 280 l 6
+ 50 300 40 338 40 360 c 6
+ 40 400 l 5
+EndSplineSet
+EndChar

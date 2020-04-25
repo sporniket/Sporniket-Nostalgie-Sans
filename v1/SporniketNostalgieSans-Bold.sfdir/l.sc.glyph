@@ -1,0 +1,20 @@
+StartChar: l.sc
+Encoding: 378 -1 248
+Width: 320
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+80 80 m 9x50
+ 290 80 l 17x50
+ 290 58 280 20 270 0 c 9
+ 100 0 l 17x90
+ 90 20 80 58 80 80 c 9x50
+120 400 m 29xa0
+ 120 0 l 25x90
+ 40 0 l 25
+ 40 400 l 29
+ 120 400 l 29xa0
+EndSplineSet
+EndChar

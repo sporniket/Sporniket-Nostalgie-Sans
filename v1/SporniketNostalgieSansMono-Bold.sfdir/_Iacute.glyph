@@ -1,0 +1,10 @@
+StartChar: Iacute
+Encoding: 205 205 107
+Width: 320
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 72 180 N 1 0 0 1 80 120 2
+Refer: 26 73 N 1 0 0 1 0 0 3
+EndChar

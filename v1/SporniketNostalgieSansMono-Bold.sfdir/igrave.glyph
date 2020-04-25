@@ -1,0 +1,9 @@
+StartChar: igrave
+Encoding: 236 236 100
+Width: 320
+Flags: H
+LayerCount: 2
+Fore
+Refer: 73 96 N 1 0 0 1 -40.001 0 2
+Refer: 105 305 N 1 0 0 1 0 0 3
+EndChar

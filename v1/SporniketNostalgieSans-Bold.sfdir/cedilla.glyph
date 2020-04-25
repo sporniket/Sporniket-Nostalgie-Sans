@@ -1,0 +1,18 @@
+StartChar: cedilla
+Encoding: 259 184 132
+Width: 160
+Flags: W
+HStem: -80 120<40 80 0 120 40 40>
+AnchorPoint: "Bottom" 80 40 mark 0
+LayerCount: 2
+Fore
+SplineSet
+40 40 m 1
+ 120 40 l 1
+ 120 17.7002 109.973 -20.0547 100 -40 c 1
+ 80 -80 l 1
+ 0 -80 l 1
+ 20 -40 l 1
+ 29.9902 -20.0605 40 17.7002 40 40 c 1
+EndSplineSet
+EndChar

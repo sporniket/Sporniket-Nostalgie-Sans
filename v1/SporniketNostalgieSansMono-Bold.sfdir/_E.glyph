@@ -1,0 +1,18 @@
+StartChar: E
+Encoding: 69 69 40
+Width: 320
+Flags: HW
+HStem: 0 80<100 270> 0 480<40 120 60 120 40 40> 240 80<120 220> 400 80<120 260>
+VStem: 40 80<0 240 320 400> 80 210<51.5139 80>
+AnchorPoint: "Top" 160 500 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+80 80 m 13x84
+ 290 80 l 21
+ 290 57.7002 279.973 19.9453 270 0 c 13
+ 100 0 l 21
+ 90.0273 19.9453 80 57.7002 80 80 c 13x84
+EndSplineSet
+Refer: 42 70 N 1 0 0 1 0 0 2
+EndChar

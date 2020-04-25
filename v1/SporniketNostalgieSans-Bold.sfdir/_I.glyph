@@ -1,0 +1,19 @@
+StartChar: I
+Encoding: 73 73 26
+Width: 160
+Flags: W
+HStem: 0 480<40 120 40 120 40 40>
+VStem: 40 80<0 480>
+AnchorPoint: "Top" 80 500 basemark 0
+LayerCount: 2
+Fore
+SplineSet
+120 480 m 29
+ 120 0 l 29
+ 40 0 l 29
+ 40 480 l 29
+ 120 480 l 29
+EndSplineSet
+Validated: 1
+Substitution2: "sous-table 'c2sc' Capitales vers petites capitales dans Latin lookup 0" i.sc
+EndChar

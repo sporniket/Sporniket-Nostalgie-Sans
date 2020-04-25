@@ -1,0 +1,20 @@
+StartChar: quoteleft
+Encoding: 274 8216 210
+Width: 320
+Flags: HW
+HStem: 320 160<120 160>
+VStem: 80 120<320 440 440 440> 80 80<411.514 480>
+LayerCount: 2
+Fore
+SplineSet
+160 480 m 21xa0
+ 160 440 l 5xa0
+ 160 417.7 170.01 379.939 180 360 c 5
+ 200 320 l 5
+ 120 320 l 5
+ 100 360 l 5
+ 90.0273 379.945 80 417.7 80 440 c 5xc0
+ 80 480 l 13
+ 160 480 l 21xa0
+EndSplineSet
+EndChar

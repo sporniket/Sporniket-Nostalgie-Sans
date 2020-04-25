@@ -1,0 +1,13 @@
+StartChar: otilde
+Encoding: 245 245 118
+Width: 320
+VWidth: 0
+Flags: H
+HStem: 0 80<128.265 180> 280 80<128.265 180> 400 160<80 280 120 120>
+VStem: 40 80<100 271.735> 40 240<476.53 480 480 483.47 460 500 460 460> 200 80<88.2651 260>
+LayerCount: 2
+Fore
+Refer: 97 126 N 1 0 0 1 0 240 2
+Refer: 1 111 N 1 0 0 1 0 0 3
+Validated: 1
+EndChar

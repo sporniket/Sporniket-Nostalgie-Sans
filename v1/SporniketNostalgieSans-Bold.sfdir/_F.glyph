@@ -1,0 +1,27 @@
+StartChar: F
+Encoding: 70 70 42
+Width: 320
+Flags: W
+HStem: 0 480<40 120 60 120 40 40> 240 80<120 220> 400 80<120 260>
+VStem: 40 80<0 240 320 400>
+LayerCount: 2
+Fore
+SplineSet
+60 480 m 1x90
+ 120 480 l 1x90
+ 280 480 l 1
+ 280 457.7 269.973 419.945 260 400 c 1
+ 120 400 l 1
+ 120 320 l 1
+ 240 320 l 1
+ 240 297.7 229.973 259.945 220 240 c 1
+ 120 240 l 1x70
+ 120 0 l 1
+ 40 0 l 1
+ 40 480 l 1
+ 60 480 l 1x90
+EndSplineSet
+Validated: 1
+Kerns2: 27 -40 "kern" 17 -40 "kern" 29 -40 "kern" 28 -40 "kern" 126 -40 "kern" 128 -40 "kern" 127 -40 "kern" 18 -40 "kern" 14 -40 "kern" 31 -40 "kern" 20 -40 "kern" 6 -40 "kern" 5 -40 "kern" 115 -40 "kern" 117 -40 "kern" 116 -40 "kern" 1 -40 "kern" 15 -40 "kern" 19 -40 "kern" 47 -160 "kern" 4 -40 "kern" 13 -40 "kern" 78 -40 "kern" 80 -40 "kern" 79 -40 "kern" 11 -40 "kern" 3 -40 "kern" 9 -40 "kern" 150 -80 "kern" 91 -80 "kern" 87 -80 "kern" 89 -40 "kern" 88 -80 "kern" 8 -80 "kern"
+Substitution2: "sous-table 'c2sc' Capitales vers petites capitales dans Latin lookup 0" f.sc
+EndChar

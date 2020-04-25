@@ -1,0 +1,12 @@
+StartChar: acircumflex
+Encoding: 226 226 89
+Width: 320
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+Refer: 74 94 N 1 0 0 1 0 0 2
+Refer: 8 97 N 1 0 0 1 0 0 3
+Validated: 5
+Kerns2: 195 -40 "kern" 130 -40 "kern" 36 -40 "kern" 14 -40 "kern" 13 -40 "kern"
+EndChar

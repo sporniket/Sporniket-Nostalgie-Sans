@@ -1,0 +1,9 @@
+StartChar: guilsinglright
+Encoding: 300 8250 236
+Width: 240
+VWidth: 820
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 235 8249 N -1 0 0 1 240.001 0 2
+EndChar
