@@ -1,0 +1,53 @@
+SplineFontDB: 3.0
+FontName: SporniketNostalgie2SansBold
+FullName: Sporniket Nostalgie 2 Sans -- Bold
+FamilyName: Sporniket Nostalgie 2 Sans
+Weight: Bold
+Copyright: Copyright (c) 2020, David SPORN,,,
+UComments: "2020-4-19: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -131
+UnderlineWidth: 65
+Ascent: 832
+Descent: 192
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Arri+AOgA-re" 1
+Layer: 1 0 "Avant" 0
+XUID: [1021 996 -1421705234 4545642]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1587301957
+ModificationTime: 1587531131
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 92
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 64 16 4
+BeginPrivate: 3
+BlueValues 30 [-8 0 512 520 752 760 768 776]
+StdVW 4 [96]
+StdHW 4 [96]
+EndPrivate
+EndSplineFont
