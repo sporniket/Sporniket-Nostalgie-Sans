@@ -1,2 +1,5 @@
 #backup files
 *~
+
+#font files
+*.otf
