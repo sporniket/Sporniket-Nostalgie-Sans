@@ -3,7 +3,7 @@ Encoding: 102 102 6
 Width: 384
 VWidth: 0
 InSpiro: 1
-Flags: W
+Flags: HW
 HStem: 0 21G<128 228> 402 100<28 364> 676 100<264.572 363.418>
 VStem: 128 100<0 636.916>
 LayerCount: 2
