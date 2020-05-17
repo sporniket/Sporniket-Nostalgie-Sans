@@ -1,9 +1,9 @@
 StartChar: j
 Encoding: 106 106 20
-Width: 576
+Width: 448
 VWidth: 0
 InSpiro: 1
-Flags: WO
+Flags: HW
 HStem: 644 116<292.495 373.505>
 VStem: 275 116<661.495 742.505> 284 100<-62.258 -20.0059>
 LayerCount: 2
