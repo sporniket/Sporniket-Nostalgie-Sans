@@ -3,7 +3,7 @@ Encoding: 101 101 21
 Width: 512
 VWidth: 0
 InSpiro: 1
-Flags: MWO
+Flags: MW
 HStem: -4 100<203.988 394.033> 238 64<164 348> 480 100<198.346 313.654>
 VStem: 64 100<135.58 241 330 444.649> 348 100<338 444.649>
 LayerCount: 2
