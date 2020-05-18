@@ -1,9 +1,9 @@
 StartChar: x
 Encoding: 120 120 24
-Width: 1024
+Width: 512
 VWidth: 0
 InSpiro: 1
-Flags: WO
+Flags: HW
 HStem: 0 21G<70 170.635 341.365 442> 556 20G<70 170.635 341.365 442>
 VStem: 70 100<0 87.7933 488.207 576> 342 100<0 87.7933 488.207 576>
 LayerCount: 2
