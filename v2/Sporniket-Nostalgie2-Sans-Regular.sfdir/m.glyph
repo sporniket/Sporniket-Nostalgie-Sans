@@ -3,7 +3,7 @@ Encoding: 109 109 3
 Width: 704
 VWidth: 0
 InSpiro: 1
-Flags: HW
+Flags: W
 HStem: 0 21G<64 164 540 640> 484 100<187.785 284.196 419.804 516.215>
 VStem: 64 100<0 460.267> 308 88<224 384.759> 540 100<0 460.267>
 CounterMasks: 1 38
