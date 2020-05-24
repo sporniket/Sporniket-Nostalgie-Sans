@@ -1,0 +1,23 @@
+StartChar: I
+Encoding: 73 73 31
+Width: 256
+VWidth: 0
+Flags: W
+VStem: 78 100
+LayerCount: 2
+Fore
+SplineSet
+78 756 m 5
+ 78 0 l 5
+ 178 0 l 5
+ 178 756 l 5
+ 78 756 l 5
+  Spiro
+    78 756 v
+    78 0 v
+    178 0 v
+    178 756 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
