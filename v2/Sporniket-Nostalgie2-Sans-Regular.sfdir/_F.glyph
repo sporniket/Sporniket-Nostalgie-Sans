@@ -2,7 +2,7 @@ StartChar: F
 Encoding: 70 70 30
 Width: 512
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -30,11 +30,11 @@ SplineSet
     64 484 v
     0 0 z
   EndSpiro
-64 756 m 1
- 64 0 l 1
- 164 0 l 1
- 164 756 l 1
- 64 756 l 1
+64 756 m 5
+ 64 0 l 5
+ 164 0 l 5
+ 164 756 l 5
+ 64 756 l 5
   Spiro
     64 756 v
     64 0 v
