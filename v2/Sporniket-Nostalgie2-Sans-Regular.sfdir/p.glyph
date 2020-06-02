@@ -10,14 +10,14 @@ LayerCount: 2
 Fore
 SplineSet
 66 576 m 1
- 66 -192 l 1
- 166 -192 l 1
+ 66 -128 l 1
+ 166 -128 l 1
  166 576 l 1
  66 576 l 1
   Spiro
     66 576 v
-    66 -192 v
-    166 -192 v
+    66 -128 v
+    166 -128 v
     166 576 v
     0 0 z
   EndSpiro
