@@ -7,10 +7,10 @@ Copyright: Copyright (c) 2020, David SPORN,,,
 UComments: "2020-4-19: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
-UnderlinePosition: -131
-UnderlineWidth: 65
-Ascent: 832
-Descent: 192
+UnderlinePosition: -127
+UnderlineWidth: 64
+Ascent: 896
+Descent: 128
 InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Arri+AOgA-re" 1
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1587301957
-ModificationTime: 1591069694
+ModificationTime: 1591069894
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
