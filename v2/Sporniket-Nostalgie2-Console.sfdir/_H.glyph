@@ -1,0 +1,46 @@
+StartChar: H
+Encoding: 72 72 38
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+64 756 m 5
+ 64 0 l 5
+ 164 0 l 5
+ 164 756 l 5
+ 64 756 l 5
+  Spiro
+    64 756 v
+    64 0 v
+    164 0 v
+    164 756 v
+    0 0 z
+  EndSpiro
+96 384 m 1
+ 402 384 l 1
+ 402 484 l 1
+ 96 484 l 1
+ 96 384 l 1
+  Spiro
+    96 384 v
+    402 384 v
+    402 484 v
+    96 484 v
+    0 0 z
+  EndSpiro
+348 756 m 5
+ 348 0 l 5
+ 448 0 l 5
+ 448 756 l 5
+ 348 756 l 5
+  Spiro
+    348 756 v
+    348 0 v
+    448 0 v
+    448 756 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar

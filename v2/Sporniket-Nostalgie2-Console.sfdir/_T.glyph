@@ -1,0 +1,34 @@
+StartChar: T
+Encoding: 84 84 33
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+64 656 m 1
+ 448 656 l 1
+ 448 756 l 1
+ 64 756 l 1
+ 64 656 l 1
+  Spiro
+    64 656 v
+    448 656 v
+    448 756 v
+    64 756 v
+    0 0 z
+  EndSpiro
+206 756 m 5
+ 206 0 l 5
+ 306 0 l 5
+ 306 756 l 5
+ 206 756 l 5
+  Spiro
+    206 756 v
+    206 0 v
+    306 0 v
+    306 756 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
