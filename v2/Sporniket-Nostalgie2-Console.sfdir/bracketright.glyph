@@ -2,6 +2,32 @@ StartChar: bracketright
 Encoding: 93 93 87
 Width: 512
 VWidth: 0
-Flags: HW
+InSpiro: 1
+Flags: W
+HStem: 0 100<88 206> 668 100<88 206>
+VStem: 88 218<0 100 668 768> 206 100<100 668>
 LayerCount: 2
+Fore
+SplineSet
+306 768 m 1xe0
+ 306 0 l 1
+ 88 0 l 1
+ 88 100 l 1xe0
+ 206 100 l 1
+ 206 668 l 1xd0
+ 88 668 l 1
+ 88 768 l 1
+ 306 768 l 1xe0
+  Spiro
+    306 768 v
+    306 0 v
+    88 0 v
+    88 100 v
+    206 100 v
+    206 668 v
+    88 668 v
+    88 768 v
+    0 0 z
+  EndSpiro
+EndSplineSet
 EndChar
