@@ -3,9 +3,7 @@ Encoding: 102 102 6
 Width: 512
 VWidth: 0
 InSpiro: 1
-Flags: W
-HStem: 0 21G<192 292> 402 100<92 428> 664 98<320.771 421.682>
-VStem: 192 100<0 633.926>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

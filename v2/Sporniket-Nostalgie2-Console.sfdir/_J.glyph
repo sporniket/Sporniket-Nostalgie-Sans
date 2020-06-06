@@ -3,9 +3,7 @@ Encoding: 74 74 42
 Width: 512
 VWidth: 0
 InSpiro: 1
-Flags: HW
-HStem: -8 100<195.875 316.125>
-VStem: 64 100<123.913 184> 348 100<123.913 184>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet

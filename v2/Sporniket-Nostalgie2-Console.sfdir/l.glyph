@@ -3,17 +3,15 @@ Encoding: 108 108 4
 Width: 512
 VWidth: 0
 InSpiro: 1
-Flags: W
-HStem: 0 100<156 356> 668 100<156 306>
-VStem: 156 150<668 768> 206 100<0 768>
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-156 768 m 1xe0
+156 768 m 1
  306 768 l 1
  306 668 l 1
  156 668 l 1
- 156 768 l 1xe0
+ 156 768 l 1
   Spiro
     156 768 v
     306 768 v
@@ -33,11 +31,11 @@ SplineSet
     156 0 v
     0 0 z
   EndSpiro
-206 768 m 1xd0
- 306 768 l 1xe0
+206 768 m 1
+ 306 768 l 1
  306 0 l 1
  206 0 l 1
- 206 768 l 1xd0
+ 206 768 l 1
   Spiro
     206 768 v
     306 768 v
