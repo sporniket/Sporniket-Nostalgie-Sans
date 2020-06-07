@@ -2,20 +2,35 @@ StartChar: I
 Encoding: 73 73 31
 Width: 512
 VWidth: 0
+InSpiro: 1
 Flags: MW
 LayerCount: 2
 Fore
 SplineSet
-88 656 m 5
- 424 656 l 5
- 424 756 l 5
- 88 756 l 5
- 88 656 l 5
+88 656 m 1
+ 424 656 l 1
+ 424 756 l 1
+ 88 756 l 1
+ 88 656 l 1
+  Spiro
+    88 656 v
+    424 656 v
+    424 756 v
+    88 756 v
+    0 0 z
+  EndSpiro
 88 0 m 1
  424 0 l 1
  424 100 l 1
  88 100 l 1
  88 0 l 1
+  Spiro
+    88 0 v
+    424 0 v
+    424 100 v
+    88 100 v
+    0 0 z
+  EndSpiro
 206 756 m 1
  206 0 l 1
  306 0 l 1
