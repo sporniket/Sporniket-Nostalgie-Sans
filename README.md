@@ -17,36 +17,49 @@ vertical stick.
 
 ## v2 Roadmap
 
-The collection will provide the following fonts, in this order of making :
-* a 'console' variant
-* a 'small console' variant
-* a 'tiny console' variant
-* a 'sans-serif' variant
-* a 'serif' variant
-* an 'icon' variant
+The collection will provide the following fonts, mostly in this order of making :
+* _DOING_ - a 'console' variant
+* _PLANNED_ - a 'console small' variant
+* _PLANNED_ - a 'console tiny' variant
+* _MAYBE_ - a 'sans-serif' variant
+* _MAYBE_ - a 'serif' variant
+* _MAYBE_ - an 'icon' variant
 
 ## Sporniket Nostalgie v2 — console variants
 
-A set of fixed width fonts inspired by the 8×16 ('console'), 8×8 ('small console') and 6×6 ('tiny console') system fonts. The motto of these fonts : «faithful on screen, beautiful on paper». As a matter of fact, the faithfulness will be limited to the ASCII-127 range, because I don't want to see diacritics with deformed glyphes (and because I would like to define those glyphes as a combination of a base glyph and an accent).
+A set of fixed width fonts inspired by the 8×16 ('console'), 8×8 ('console small') and 6×6 ('console tiny') system fonts. The motto of these fonts : «faithful on screen, beautiful on paper».
 
-### Roadmap
+### Roadmap 2020
 
-* v2.0.0-alpha-1 : 'console' ; private milestone ; US-ASCII a.k.a Basic latin (printable character from code 32 —space— to 127).
-* v2.0.0-alpha-2 : 'console' ; private milestone ; usual diacritic for French : acute, grave and circonflex accents, c with cedilla, 'oe' and 'ae' ligatures.
-* v2.0.0-alpha-3 : 'console' ; public milestone ; coding special ligatures (C/Java operators, Pascal ':=').
+*Summer*
 
-* v2.0.0-alpha-4 : 'small console' ; private milestone ; US-ASCII a.k.a Basic latin (printable character from code 32 —space— to 127).
-* v2.0.0-alpha-5 : 'small console' ; private milestone ; usual diacritic for French : acute, grave and circonflex accents, c with cedilla, 'oe' and 'ae' ligatures.
-* v2.0.0-alpha-6 : 'small console' ; public milestone ; coding special ligatures (C/Java operators, Pascal ':=').
+* v2.0.0-alpha : 'console' ; US-ASCII a.k.a Basic latin (any printable character from code 32 —space— to 127).
+* v2.0.0-beta : 'console' ; usual diacritic for French : acute, grave and circonflex accents, c with cedilla, 'oe' and 'ae' ligatures.
+* v2.0.0 : 'console' ; Latin-1 Supplement.
 
-* v2.0.0-alpha-7 : 'tiny console' ; private milestone ; US-ASCII a.k.a Basic latin (printable character from code 32 —space— to 127).
-* v2.0.0-alpha-8 : 'tiny console' ; private milestone ; usual diacritic for French : acute, grave and circonflex accents, c with cedilla, 'oe' and 'ae' ligatures.
-* v2.0.0-alpha-9 : 'tiny console' ; public milestone ; coding special ligatures (C/Java operators, Pascal ':=').
+*Fall*
 
-* v2.0.0 : all 'console' variants ; Latin-1 Supplement.
-* v2.1.0 : all 'console' variants ; Latin Extended-A except U+0149 (Latin Small letter N preceded by apostrophe)
+* v2.1.0-alpha : 'console small' ; US-ASCII a.k.a Basic latin (printable character from code 32 —space— to 127).
+* v2.1.0-beta : 'console small' ; usual diacritic for French : acute, grave and circonflex accents, c with cedilla, 'oe' and 'ae' ligatures.
+* v2.1.0 : 'console small' ; Latin-1 Supplement.
 
+*Winter*
 
+* v2.2.0-alpha : 'console tiny' ; US-ASCII a.k.a Basic latin (printable character from code 32 —space— to 127).
+* v2.2.0-beta : 'console tiny' ; usual diacritic for French : acute, grave and circonflex accents, c with cedilla, 'oe' and 'ae' ligatures.
+* v2.2.0 : 'console tiny' ; Latin-1 Supplement.
+
+### Additionnal wish list
+
+If I feel motivated enough, here are some 'nice to have' features that I would like to implement :
+
+* coding special ligatures for console variants : C/Java operators, Pascal ':=' ; however, I would not implement ligatures that are incompatible with GFA-Basic, like '!=' (e.g. setting the value of the boolean variable `a!` to `TRUE` will result in the sequence `a!=TRUE` ; a ligature for C/Java `!=` -not equal- would render the the font unsuitable to write GFA-Basic programs).
+
+* the 'bee'/'honeybee' emoji.
+
+* the standard mouse cursor
+
+* the arrows
 
 ## Licence
 
