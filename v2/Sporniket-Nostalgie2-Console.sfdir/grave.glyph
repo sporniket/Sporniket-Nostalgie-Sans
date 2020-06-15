@@ -2,6 +2,22 @@ StartChar: grave
 Encoding: 96 96 72
 Width: 512
 VWidth: 0
+InSpiro: 1
 Flags: HMW
 LayerCount: 2
+Fore
+SplineSet
+354 478 m 1
+ 92 740 l 1
+ 92 880 l 1
+ 354 618 l 1
+ 354 478 l 1
+  Spiro
+    354 478 v
+    92 740 v
+    92 880 v
+    354 618 v
+    0 0 z
+  EndSpiro
+EndSplineSet
 EndChar
