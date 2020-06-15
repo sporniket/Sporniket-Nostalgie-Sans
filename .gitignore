@@ -3,3 +3,6 @@
 
 #font files
 *.otf
+*.ttf
+*.woff
+*.otf.dfont
