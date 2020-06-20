@@ -3,10 +3,9 @@ Encoding: 263 -1 128
 Width: 512
 VWidth: 0
 InSpiro: 1
-Flags: W
+Flags: HW
 HStem: 0 21G<64 164 348 448> 284 100<128 384>
 VStem: 64 100<0 284 384 496.065> 128 36<284 384> 348 100<0 284 384 496.046> 348 36<284 384>
-AnchorPoint: "top" 256 640 basechar 0
 LayerCount: 2
 Fore
 SplineSet
