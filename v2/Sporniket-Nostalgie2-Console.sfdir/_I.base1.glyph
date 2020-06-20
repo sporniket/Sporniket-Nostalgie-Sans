@@ -1,0 +1,40 @@
+StartChar: I.base1
+Encoding: 266 -1 138
+Width: 512
+VWidth: 0
+Flags: W
+VStem: 88 336
+LayerCount: 2
+Fore
+SplineSet
+88 592 m 5
+ 424 592 l 5
+ 424 692 l 5
+ 88 692 l 5
+ 88 592 l 5
+  Spiro
+    88 592 v
+    424 592 v
+    424 692 v
+    88 692 v
+    0 0 z
+  EndSpiro
+88 0 m 1
+ 424 0 l 1
+ 424 100 l 1
+ 88 100 l 1
+ 88 0 l 1
+  Spiro
+    88 0 v
+    424 0 v
+    424 100 v
+    88 100 v
+    0 0 z
+  EndSpiro
+206 692 m 5
+ 206 0 l 1
+ 306 0 l 1
+ 306 692 l 5
+ 206 692 l 5
+EndSplineSet
+EndChar
