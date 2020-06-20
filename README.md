@@ -63,6 +63,4 @@ If I feel motivated enough, here are some 'nice to have' features that I would l
 
 ## Licence
 
-This project is licenced under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
-
-https://creativecommons.org/licenses/by-sa/4.0/
+This project is licenced under the [SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007](http://scripts.sil.org/OFL)
