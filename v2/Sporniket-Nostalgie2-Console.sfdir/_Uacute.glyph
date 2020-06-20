@@ -1,0 +1,11 @@
+StartChar: Uacute
+Encoding: 218 218 150
+Width: 512
+VWidth: 0
+InSpiro: 1
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 103 769 N 1 0 0 1 0 64 2
+Refer: 148 -1 N 1 0 0 1 0 0 2
+EndChar
