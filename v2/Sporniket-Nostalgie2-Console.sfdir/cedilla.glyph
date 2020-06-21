@@ -2,6 +2,7 @@ StartChar: cedilla
 Encoding: 184 184 163
 Width: 512
 VWidth: 0
+InSpiro: 1
 Flags: HMW
 AnchorPoint: "bottom" 320 0 mark 0
 LayerCount: 2

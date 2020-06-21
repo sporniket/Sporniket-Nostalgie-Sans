@@ -1,0 +1,36 @@
+StartChar: brokenbar
+Encoding: 166 166 170
+Width: 512
+VWidth: 0
+InSpiro: 1
+Flags: HW
+VStem: 206 100<-90 858>
+LayerCount: 2
+Fore
+SplineSet
+206 -90 m 1
+ 206 334 l 1
+ 306 334 l 1
+ 306 -90 l 1
+ 206 -90 l 1
+  Spiro
+    206 -90 v
+    206 334 v
+    306 334 v
+    306 -90 v
+    0 0 z
+  EndSpiro
+206 434 m 1
+ 206 858 l 1
+ 306 858 l 1
+ 306 434 l 1
+ 206 434 l 1
+  Spiro
+    206 434 v
+    206 858 v
+    306 858 v
+    306 434 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
