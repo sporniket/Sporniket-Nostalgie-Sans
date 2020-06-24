@@ -1,0 +1,35 @@
+StartChar: multiply
+Encoding: 215 215 179
+Width: 512
+VWidth: 0
+InSpiro: 1
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+116 659 m 1
+ 45 588 l 1
+ 396 237 l 1
+ 467 308 l 1
+ 116 659 l 1
+  Spiro
+    116 659 v
+    45 588 v
+    396 237 v
+    467 308 v
+    0 0 z
+  EndSpiro
+457 578 m 1
+ 386 649 l 1
+ 55 318 l 1
+ 126 247 l 1
+ 457 578 l 1
+  Spiro
+    457 578 v
+    386 649 v
+    55 318 v
+    126 247 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar

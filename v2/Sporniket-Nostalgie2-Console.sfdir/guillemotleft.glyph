@@ -1,0 +1,43 @@
+StartChar: guillemotleft
+Encoding: 171 171 194
+Width: 512
+VWidth: 0
+InSpiro: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+415 92 m 1
+ 480 153 l 1
+ 341 288 l 1
+ 480 422 l 1
+ 415 484 l 1
+ 219 288 l 1
+ 415 92 l 1
+  Spiro
+    415 92 v
+    480 153 v
+    341 288 v
+    480 422 v
+    415 484 v
+    219 288 v
+    0 0 z
+  EndSpiro
+247 53 m 1
+ 310 117 l 1
+ 138 288 l 1
+ 310 459 l 1
+ 246 523 l 1
+ 12 288 l 1
+ 247 53 l 1
+  Spiro
+    247 53 v
+    310 117 v
+    138 288 v
+    310 459 v
+    246 523 v
+    12 288 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
