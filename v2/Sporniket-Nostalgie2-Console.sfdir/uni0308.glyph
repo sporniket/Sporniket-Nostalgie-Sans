@@ -3,9 +3,7 @@ Encoding: 260 776 116
 Width: 512
 VWidth: 0
 InSpiro: 1
-Flags: W
-HStem: 644 116<89.4943 170.506 345.494 426.506>
-VStem: 72 116<661.494 742.506> 328 116<661.494 742.506>
+Flags: MW
 AnchorPoint: "top" 256 576 mark 0
 LayerCount: 2
 Fore

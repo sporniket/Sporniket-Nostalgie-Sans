@@ -2,8 +2,7 @@ StartChar: I.base1
 Encoding: 266 -1 138
 Width: 512
 VWidth: 0
-Flags: W
-VStem: 88 336
+Flags: MW
 LayerCount: 2
 Fore
 SplineSet
