@@ -4,8 +4,8 @@ FullName: Sporniket Nostalgie 2 Console
 FamilyName: Sporniket Nostalgie 2 Console
 Weight: Regular
 Copyright: Copyright (c) 2020, David SPORN,,,
-UComments: "2020-4-19: Created with FontForge (http://fontforge.org)"
-Version: 001.001
+UComments: "This font will render like the Atari ST 'hires' system font when sized to 16 pixels height.+AAoA-Created with FontForge (http://fontforge.org)+AAoACgAA-2020-06-26 :+AKAA-completed Basic latin and Latin-1 supplement. Some supplemental characters to support French.+AAoA-2020-04-19 : beta version, support French."
+Version: 001.002
 ItalicAngle: 0
 UnderlinePosition: -127
 UnderlineWidth: 64
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1587301957
-ModificationTime: 1593205713
+ModificationTime: 1593207290
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -57,5 +57,6 @@ BlueValues 30 [-8 0 576 584 752 760 768 776]
 StdVW 5 [100]
 StdHW 5 [100]
 EndPrivate
+TeXData: 1 0 0 524288 262144 174762 589824 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "bottom"""  "top""" 
 EndSplineFont
