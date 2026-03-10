@@ -1,6 +1,6 @@
 # Sporniket Nostalgie Sans v1
 
-> This version has been deprecated and replaced by a version 2 project. It has been archived in this branch `v1-archive` for preservation
+> **2026-03-10** : This version has been deprecated and replaced by a version 2 project. It has been archived in this branch `v1-archive` for preservation
 
 *Sporniket Nostalgie Sans* is an opentype font project that is inspired by the Atari ST system 8×16 font.
 
