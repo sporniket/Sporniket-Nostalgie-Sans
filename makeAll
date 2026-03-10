@@ -1,21 +1,17 @@
 #!/bin/bash
-SRC_V1=$(ls -d v1/*.sfdir)
-SRC_V2=$(ls -d v2/*.sfdir)
 
-echo "Exporting v1..."
-for src in $SRC_V1; do
-  dn="$(dirname $src)"
-  bfn="$(basename $src .sfdir)"
-  bnsrc="$dn/$bfn"
-  fontforge -script makeFontRelease.py $bnsrc
-done
+function buildFonts {
+  SRC="$1"
+  echo "Processing ${SRC} folder..."
+  for src in $(ls -d ${SRC}/*.sfdir); do
+    dn="$(dirname $src)"
+    bfn="$(basename $src .sfdir)"
+    bnsrc="$dn/$bfn"
+    echo "Building ${bfn}..."
+    fontforge -script makeFontRelease.py $bnsrc
+  done
+}
 
-echo "Exporting v2..."
-for src in $SRC_V2; do
-  dn="$(dirname $src)"
-  bfn="$(basename $src .sfdir)"
-  bnsrc="$dn/$bfn"
-  fontforge -script makeFontRelease.py $bnsrc
-done
+buildFonts "src"
 
 echo "DONE"
