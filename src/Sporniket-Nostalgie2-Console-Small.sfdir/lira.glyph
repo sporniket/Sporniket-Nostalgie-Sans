@@ -1,0 +1,21 @@
+StartChar: lira
+Encoding: 278 8356 214
+Width: 512
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+392 459 m 1
+ 392 409 l 5
+ 24 409 l 5
+ 24 459 l 5
+ 392 459 l 1
+392 359 m 1
+ 392 309 l 5
+ 24 309 l 5
+ 24 359 l 5
+ 392 359 l 1
+EndSplineSet
+Refer: 213 -1 N 1 0 0 1 0 0 2
+EndChar

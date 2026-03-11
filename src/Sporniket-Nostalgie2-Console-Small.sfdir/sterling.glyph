@@ -1,0 +1,16 @@
+StartChar: sterling
+Encoding: 163 163 168
+Width: 512
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+472 402 m 1
+ 472 302 l 1
+ 24 302 l 1
+ 24 402 l 1
+ 472 402 l 1
+EndSplineSet
+Refer: 213 -1 S 1 0 0 1 0 0 2
+EndChar

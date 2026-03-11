@@ -1,0 +1,24 @@
+StartChar: gravecomb
+Encoding: 256 768 96
+Width: 512
+VWidth: 0
+InSpiro: 1
+Flags: MW
+AnchorPoint: "top" 256 576 mark 0
+LayerCount: 2
+Fore
+SplineSet
+185 670 m 1
+ 53 802 l 1
+ 195 802 l 1
+ 327 670 l 1
+ 185 670 l 1
+  Spiro
+    185 670 v
+    53 802 v
+    195 802 v
+    327 670 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar

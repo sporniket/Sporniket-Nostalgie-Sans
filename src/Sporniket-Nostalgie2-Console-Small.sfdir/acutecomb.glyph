@@ -1,0 +1,24 @@
+StartChar: acutecomb
+Encoding: 258 769 103
+Width: 512
+VWidth: 0
+InSpiro: 1
+Flags: HMW
+AnchorPoint: "top" 256 576 mark 0
+LayerCount: 2
+Fore
+SplineSet
+327 670 m 1
+ 185 670 l 1
+ 317 802 l 1
+ 459 802 l 1
+ 327 670 l 1
+  Spiro
+    185 670 v
+    317 802 v
+    459 802 v
+    327 670 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar

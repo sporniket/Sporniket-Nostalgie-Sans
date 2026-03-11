@@ -1,0 +1,59 @@
+StartChar: numbersign
+Encoding: 35 35 57
+Width: 512
+VWidth: 0
+InSpiro: 1
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+334 136 m 1
+ 434 136 l 1
+ 434 760 l 1
+ 334 760 l 1
+ 334 136 l 1
+  Spiro
+    334 136 v
+    434 136 v
+    434 760 v
+    334 760 v
+    0 0 z
+  EndSpiro
+8 626 m 1
+ 8 526 l 1
+ 504 526 l 1
+ 504 626 l 1
+ 8 626 l 1
+  Spiro
+    8 626 v
+    8 526 v
+    504 526 v
+    504 626 v
+    0 0 z
+  EndSpiro
+178 760 m 1
+ 78 760 l 1
+ 78 136 l 1
+ 178 136 l 1
+ 178 760 l 1
+  Spiro
+    178 760 v
+    78 760 v
+    78 136 v
+    178 136 v
+    0 0 z
+  EndSpiro
+504 270 m 1
+ 504 370 l 1
+ 8 370 l 1
+ 8 270 l 1
+ 504 270 l 1
+  Spiro
+    504 270 v
+    504 370 v
+    8 370 v
+    8 270 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar

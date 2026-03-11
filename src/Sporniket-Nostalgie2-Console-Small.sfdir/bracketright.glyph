@@ -1,0 +1,31 @@
+StartChar: bracketright
+Encoding: 93 93 69
+Width: 512
+VWidth: 0
+InSpiro: 1
+Flags: MW
+LayerCount: 2
+Fore
+SplineSet
+306 768 m 1
+ 306 0 l 1
+ 88 0 l 1
+ 88 100 l 1
+ 206 100 l 1
+ 206 668 l 1
+ 88 668 l 1
+ 88 768 l 1
+ 306 768 l 1
+  Spiro
+    306 768 v
+    306 0 v
+    88 0 v
+    88 100 v
+    206 100 v
+    206 668 v
+    88 668 v
+    88 768 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+EndChar
