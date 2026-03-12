@@ -1,46 +1,25 @@
 StartChar: F
 Encoding: 70 70 30
-Width: 512
+Width: 1024
 VWidth: 0
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-64 656 m 1
- 448 656 l 1
- 448 756 l 1
- 64 756 l 1
- 64 656 l 1
-  Spiro
-    64 656 v
-    448 656 v
-    448 756 v
-    64 756 v
-    0 0 z
-  EndSpiro
-64 384 m 1
- 370 384 l 1
- 370 484 l 1
- 64 484 l 1
- 64 384 l 1
-  Spiro
-    64 384 v
-    370 384 v
-    370 484 v
-    64 484 v
-    0 0 z
-  EndSpiro
-64 756 m 5
- 64 0 l 5
- 164 0 l 5
- 164 756 l 5
- 64 756 l 5
-  Spiro
-    64 756 v
-    64 0 v
-    164 0 v
-    164 756 v
-    0 0 z
-  EndSpiro
+128 656 m 1
+ 896 656 l 1
+ 896 756 l 1
+ 128 756 l 1
+ 128 656 l 1
+128 384 m 1
+ 740 384 l 1
+ 740 484 l 1
+ 128 484 l 1
+ 128 384 l 1
+128 756 m 5
+ 128 0 l 5
+ 328 0 l 5
+ 328 756 l 5
+ 128 756 l 5
 EndSplineSet
 EndChar

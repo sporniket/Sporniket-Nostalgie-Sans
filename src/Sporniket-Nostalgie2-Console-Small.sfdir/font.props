@@ -1,11 +1,11 @@
 SplineFontDB: 3.2
-FontName: SporniketNostalgie2Console
-FullName: Sporniket Nostalgie 2 Console
-FamilyName: Sporniket Nostalgie 2 Console
+FontName: SporniketNostalgie2ConsoleSmall
+FullName: Sporniket Nostalgie 2 Console Small
+FamilyName: Sporniket Nostalgie 2 Console Small
 Weight: Regular
 Copyright: Copyright (c) 2020~2026, David SPORN,,,
-UComments: "This font will render like the Atari ST 'hires' system font when sized to 16 pixels height.+AAoA-Created with FontForge (http://fontforge.org)+AAoACgAA-2026-02-11 : added euro sign, lira sign, and tweaked sterling sign +AAoA-2020-06-26 :+AKAA-completed Basic latin and Latin-1 supplement. Some supplemental characters to support French.+AAoA-2020-04-19 : beta version, support French."
-Version: 001.003
+UComments: "This font will render like the Atari ST 'lores' system font when sized to 8 pixels height.+AAoA-Created with FontForge (http://fontforge.org)+AAoACgAA-2026-03-12 : converted from Sporniket Nostalgie, see that font for further history."
+Version: 001.001
 ItalicAngle: 0
 UnderlinePosition: -127
 UnderlineWidth: 64
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1587301957
-ModificationTime: 1770840823
+ModificationTime: 1773300023
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5

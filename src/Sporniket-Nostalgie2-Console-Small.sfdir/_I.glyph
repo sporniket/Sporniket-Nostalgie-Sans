@@ -1,46 +1,46 @@
 StartChar: I
 Encoding: 73 73 31
-Width: 512
+Width: 1024
 VWidth: 0
 InSpiro: 1
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-88 656 m 1
- 424 656 l 1
- 424 756 l 1
- 88 756 l 1
- 88 656 l 1
+176 656 m 1
+ 848 656 l 1
+ 848 756 l 1
+ 176 756 l 1
+ 176 656 l 1
   Spiro
-    88 656 v
-    424 656 v
-    424 756 v
-    88 756 v
+    176 656 v
+    848 656 v
+    848 756 v
+    176 756 v
     0 0 z
   EndSpiro
-88 0 m 1
- 424 0 l 1
- 424 100 l 1
- 88 100 l 1
- 88 0 l 1
+176 0 m 1
+ 848 0 l 1
+ 848 100 l 1
+ 176 100 l 1
+ 176 0 l 1
   Spiro
-    88 0 v
-    424 0 v
-    424 100 v
-    88 100 v
+    176 0 v
+    848 0 v
+    848 100 v
+    176 100 v
     0 0 z
   EndSpiro
-206 756 m 1
- 206 0 l 1
- 306 0 l 1
- 306 756 l 1
- 206 756 l 1
+412 756 m 1
+ 412 0 l 1
+ 612 0 l 1
+ 612 756 l 1
+ 412 756 l 1
   Spiro
-    206 756 v
-    206 0 v
-    306 0 v
-    306 756 v
+    412 756 v
+    412 0 v
+    612 0 v
+    612 756 v
     0 0 z
   EndSpiro
 EndSplineSet

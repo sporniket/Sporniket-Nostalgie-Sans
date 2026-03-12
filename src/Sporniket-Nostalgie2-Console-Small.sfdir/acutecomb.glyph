@@ -1,23 +1,23 @@
 StartChar: acutecomb
 Encoding: 258 769 103
-Width: 512
+Width: 1024
 VWidth: 0
 InSpiro: 1
 Flags: HMW
-AnchorPoint: "top" 256 576 mark 0
+AnchorPoint: "top" 512 576 mark 0
 LayerCount: 2
 Fore
 SplineSet
-327 670 m 1
- 185 670 l 1
- 317 802 l 1
- 459 802 l 1
- 327 670 l 1
+654 670 m 1
+ 370 670 l 1
+ 634 802 l 1
+ 918 802 l 1
+ 654 670 l 1
   Spiro
-    185 670 v
-    317 802 v
-    459 802 v
-    327 670 v
+    370 670 v
+    634 802 v
+    918 802 v
+    654 670 v
     0 0 z
   EndSpiro
 EndSplineSet

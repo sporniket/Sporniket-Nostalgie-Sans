@@ -1,9 +1,9 @@
 StartChar: Ntilde
 Encoding: 209 209 192
-Width: 512
+Width: 1024
 VWidth: 0
 InSpiro: 1
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Fore
 Refer: 182 771 N 1 0 0 1 0 0 2

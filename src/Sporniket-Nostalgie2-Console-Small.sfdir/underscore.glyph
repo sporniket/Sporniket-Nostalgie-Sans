@@ -1,22 +1,22 @@
 StartChar: underscore
 Encoding: 95 95 71
-Width: 512
+Width: 1024
 VWidth: 0
 InSpiro: 1
 Flags: HMW
 LayerCount: 2
 Fore
 SplineSet
-440 14 m 1
- 440 114 l 1
- 8 114 l 1
- 8 14 l 1
- 440 14 l 1
+880 14 m 1
+ 880 114 l 1
+ 16 114 l 1
+ 16 14 l 1
+ 880 14 l 1
   Spiro
-    440 14 v
-    440 114 v
-    8 114 v
-    8 14 v
+    880 14 v
+    880 114 v
+    16 114 v
+    16 14 v
     0 0 z
   EndSpiro
 EndSplineSet
