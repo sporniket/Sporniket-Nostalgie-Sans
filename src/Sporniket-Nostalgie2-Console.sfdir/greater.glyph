@@ -14,4 +14,12 @@ SplineSet
  429 416 l 5
  169 676 l 5
 EndSplineSet
+Substitution2: "lig.final9-1" equal_greater.liga
+Substitution2: "lig.final7-1" hyphen_greater.liga
+Substitution2: "lig.final6-1" less_equal_greater.liga
+Substitution2: "lig.final4-1" equal_equal_greater.liga
+Substitution2: "lig.final2-1" hyphen_hyphen_greater.liga
+Substitution2: "lig.final1-1" less_hyphen_greater.liga
+Substitution2: "lig.final0-1" less_hyphen_hyphen_greater.liga
+Substitution2: "lig.spacer-1" LIG
 EndChar

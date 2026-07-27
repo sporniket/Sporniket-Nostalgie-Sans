@@ -32,4 +32,9 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Substitution2: "lig.final12-1" exclam_equal.liga
+Substitution2: "lig.final11-1" less_equal.liga
+Substitution2: "lig.final10-1" greater_equal.liga
+Substitution2: "lig.final5-1" less_equal_equal.liga
+Substitution2: "lig.spacer-1" LIG
 EndChar

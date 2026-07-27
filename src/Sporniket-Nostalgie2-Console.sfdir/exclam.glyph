@@ -36,4 +36,5 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Substitution2: "lig.spacer-1" LIG
 EndChar

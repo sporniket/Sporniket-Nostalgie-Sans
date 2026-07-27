@@ -1,0 +1,21 @@
+StartChar: less_hyphen_greater.liga
+Encoding: 282 -1 218
+Width: 512
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+169 676 m 1
+ 429 416 l 1
+ 169 156 l 1
+ 27 156 l 1
+ 237.807692308 366 l 1
+ -904 366 l 1
+ -904 466 l 1
+ 237.807692308 466 l 1
+ 27 676 l 1
+ 169 676 l 1
+EndSplineSet
+Refer: 94 60 N 1 0 0 1 -1024 0 2
+EndChar

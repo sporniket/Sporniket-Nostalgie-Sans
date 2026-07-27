@@ -20,4 +20,7 @@ SplineSet
     0 0 z
   EndSpiro
 EndSplineSet
+Substitution2: "lig.final8-1" less_hyphen.liga
+Substitution2: "lig.final3-1" less_hyphen_hyphen.liga
+Substitution2: "lig.spacer-1" LIG
 EndChar
